@@ -1,4 +1,4 @@
-##Wordpress Content Bot
+Wordpress Content Bot
 
 **Turkish**
 Bota tanımlama yaptığınız wordpress sitelerinden json formatında içerikleri alıp kendi sitenize çekim yapmaktadır. 
